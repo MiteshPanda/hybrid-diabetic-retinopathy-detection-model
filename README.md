@@ -1,5 +1,3 @@
-# hybrid-diabetic-retinopathy-detection-model
-
 # Hybrid Diabetic Retinopathy Detection
 
 A deep learning web application for automated grading of diabetic retinopathy from fundus photographs. The model combines EfficientNet-B3 with a hybrid attention mechanism (channel + spatial) and produces Grad-CAM saliency maps alongside each prediction for visual explainability.
